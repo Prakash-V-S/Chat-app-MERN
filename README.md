@@ -63,7 +63,8 @@ Start the Client
 ### Real Time Chatting with Typing indicators
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/real-time.PNG)
 ### One to One chat
-![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/mainscreen.PNG)
+![image](https://github.com/Prakash-V-S/Chat-app-MERN/assets/141955456/164f82b9-2468-4c69-b7ca-b8292bd1ca01)
+
 ### Search Users
 ![](https://github.com/piyush-eon/mern-chat-app/blob/master/screenshots/search.PNG)
 ### Create Group Chats
